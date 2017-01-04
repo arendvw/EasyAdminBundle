@@ -44,7 +44,7 @@ read before using EasyAdmin.
 
 #### The Book
 
-  * [Chapter 1 - Basic configuration](book/1-basic-configuration.md)
+  * [Chapter 1 - Installation and Basic configuration](book/1-basic-configuration.md)
   * [Chapter 2 - Design configuration](book/2-design-configuration.md)
   * [Chapter 3 - `list`, `search` and `show` views configuration](book/3-list-search-show-configuration.md)
   * [Chapter 4 - `edit` and `new` views configuration](book/4-edit-new-configuration.md)
