@@ -2,34 +2,4 @@ site_name: EasyAdmin - Symfony Admin Generator [MOVED]
 docs_dir: Resources/doc
 pages:
     - Home: index.md
-#    - Getting Started Guide:
-#        - Installation: getting-started.md
-#        - Basic Configuration: book/1-basic-configuration.md
-#        - "Design configuration": book/2-design-configuration.md
-#        - "List, Search and Show Views Configuration": book/3-list-search-show-configuration.md
-#        - "Edit and New Views Configuration": book/4-edit-new-configuration.md
-#        - Actions Configuration: book/5-actions-configuration.md
-#        - Menu configuration: book/6-menu-configuration.md
-#        - Creating Complex and Dynamic Backends: book/7-complex-dynamic-backends.md
-#        - About: book/8-about.md
-#        - Configration reference: book/configuration-reference.md
-#    - Tutorials:
-#        - Translate the backend: tutorials/i18n.md
-#        - Custom actions: tutorials/custom-actions.md
-#        - Custom options for entity properties: tutorials/custom-property-options.md
-#        - Manage configuration for complex backends: tutorials/complex-backend-config.md
-#        - Tips and tricks: tutorials/tips-and-tricks.md
-#
-#    - Third party integration:
-#        - Upload files and images with VichUploaderBundle: tutorials/upload-files-and-images.md
-#        - REST Integration with FOSRestBundle: tutorials/fosrestbundle-integration.md
-#        - Authentication with FOSUserBundle: tutorials/fosuserbundle-integration.md
-#        - WYSIWYG Editor (IvoryCKEditorBundle): tutorials/wysiwyg-editor.md
-#
-#    - Development:
-#      - Roadmap: roadmap.md
-#      - Upgrade: upgrade.md
-#      - Contributors: contributors.md
-#      - Contributing: contributing.md
-#      - Submitting bugs: issue-template.md
 theme: readthedocs
